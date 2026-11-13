@@ -1,30 +1,55 @@
-# Hello, I'm You Ben Su 👋
+<h1 align="center">
+  RegularEgg4097
+</h1>
 
-I'm an engineering student with a strong interest in robotics, mechatronics, and software engineering. I enjoy designing and building systems that combine hardware, software, and practical problem-solving.
+<p align="center">
+  Intelligent Automation Engineering @ National Taipei University of Technology.
+  <br>
+  Focused on bridging the gap between hardware mechanics and high-performance software.
+</p>
 
-## Introduction
-I am currently developing my skills in embedded systems, robotics, and software design. My academic and personal projects focus on creating reliable, efficient solutions that connect engineering principles with real-world applications.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C-%23A8B9CC?style=flat-square&logo=C&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/Arduino-%2300878F?style=flat-square&logo=Arduino&logoColor=white" alt="Arduino">
+  <img src="https://img.shields.io/badge/Dassault%20Systemes-%23005386?style=flat-square&logo=Dassault%20Systemes&logoColor=white" alt="Dassault Systemes">
+</p>
 
-## 🚀 Current Areas of Focus
-- Python-based systems and game logic development
-- Embedded electronics and circuit design
-- Hardware prototyping and physical design
-- Robotics and mechatronics applications
+---
 
-## 🛠️ Technical Skills
-- Languages: Python, C++
-- Tools: Git, Linux, VS Code
-- Hardware: Breadboards, electronics prototyping, CAD
-- Areas of Interest: Robotics, automation, embedded systems, prototyping
+### Project Dashboard
 
-## 🔧 Projects
-- Python systems and logic-based applications
-- Embedded electronics experiments and prototypes
-- Hardware design and iterative prototyping
-- Engineering projects that explore the intersection of software and physical systems
+<details open>
+  
+<summary><b>
+  &nbsp; Software
+</b></summary>
 
-## 📫 Contact
-- GitHub: RegularEgg4097
-- Email: t1132b0022@ntut.org.tw
+<br>
 
-Thank you for visiting my portfolio. I’m eager to learn, build, and collaborate on projects that challenge and expand my engineering skills.
+| Project | What it does | Stack |
+| --- | --- | --- |
+| **Python Pac-Man Engine** | Grid-based arcade game loop managing collision math and state logic. | Python |
+
+</details>
+
+<details open>
+  
+<summary><b>
+  &nbsp; Electronics
+</b></summary>
+  
+<br>
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| **Analog Audio Synthesizer** | Breadboard circuit managing signal flow and frequency output tuning. | Arduino |
+| **Smart Hardware Coaster (WIP)** | Active hardware prototype tracking weight thresholds and sensor feedback. | Arduino |
+
+</details>
+
+---
+
+<p align="center">
+  Check all repositories <a href="https://github.com/RegularEgg4097?tab=repositories"> here </a>
+</p>
