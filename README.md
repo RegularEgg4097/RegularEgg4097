@@ -29,7 +29,7 @@
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| **Python Pac-Man Engine** | Grid-based arcade game loop managing collision math and state logic. | Python |
+|<a href="https://github.com/RegularEgg4097/Pac-Man-Game-Recreation-in-Pygame"> Python Pac-Man Engine </a>| Grid-based arcade game loop managing collision math and state logic. | Python |
 
 </details>
 
